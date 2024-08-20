@@ -4,7 +4,7 @@
 - $\beta$ = 0.25 (inverse temperature)
 - $\Delta$ = 1 (diabatic electronic coupling)
 - $\epsilon$ = 1 (half energy bias)
-- $\Lambda$ = $\lambda/4$ = 0.5 (bath reorganization energy)
+- $\Lambda$ = $4\lambda$ = 0.5 (bath reorganization energy)
 
 # model 2
 
@@ -12,7 +12,7 @@
 - $\beta$ = 5 (inverse temperature)
 - $\Delta$ = 1 (diabatic electronic coupling)
 - $\epsilon$ = 1 (half energy bias)
-- $\Lambda$ = $\lambda/4$ = 0.5 (bath reorganization energy)
+- $\Lambda$ = $4\lambda$ = 0.5 (bath reorganization energy)
 
 # model 3
 
@@ -20,7 +20,7 @@
 - $\beta$ = 0.25 (inverse temperature)
 - $\Delta$ = 1 (diabatic electronic coupling)
 - $\epsilon$ = 1.5 (half energy bias)
-- $\Lambda$ = $\lambda/4$ = 3.0 (bath reorganization energy)
+- $\Lambda$ = $4\lambda$ = 3.0 (bath reorganization energy)
 
 # model 4
 
@@ -28,4 +28,4 @@
 - $\beta$ = 0.25 (inverse temperature)
 - $\Delta$ = 1 (diabatic electronic coupling)
 - $\epsilon$ = 3 (half energy bias)
-- $\Lambda$ = $\lambda/4$ = 1.5 (bath reorganization energy)
+- $\Lambda$ = $4\lambda$ = 1.5 (bath reorganization energy)
