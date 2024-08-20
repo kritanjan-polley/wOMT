@@ -1,0 +1,9 @@
+7                                 !! nlevel
+15                                !! LL
+q                                !! KK
+1.d-10                             !! tolerance
+0.25                               !! dt (fs)
+1000.0                            !! t1 (fs)
+40.0                               !! t2 (fs)
+1000.0                            !! t3 (fs)
+x
