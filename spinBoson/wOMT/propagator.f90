@@ -59,7 +59,7 @@ module propagator
     do int1=2,time+1
         !! Common things first, again
         do i1=1,nsys
-            local_n(i1) = cmn1*abs2(mnew(i1,i)) - gamma
+            local_n(i1) = cmn1*abs2(mnew(i1,int1)) - gamma
         end do
         local_n(:) = cmn1*abs2(mnew(:,int1)) - gamma
         q11_m_q22_dot = four * hsys(1,2) * aimag(mnew(2,int1)*conjg(mnew(1,int1))) * cmn1
